@@ -1,0 +1,181 @@
+.div-inline-clock {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 30px 49px 0 30px ;
+}
+.nav-inline-block {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 30.8px;
+}
+.color-red {
+	color: #EE4036;
+	font-size: 22px;
+
+}
+.color {
+	color: #3D58A6;
+	font-size: 22px;
+}
+.li-inline-block {
+	display: inline-block;
+	margin-right: 18px;
+}
+.heder1 {
+	margin: 0 0 77.1px 0;
+}
+.div-baner {
+/*	display: inline-block;*/
+	width: 1170px;
+	height: 460px;
+	margin :0 auto;
+}
+.h1-css {
+	color: #000000;
+	font-size: 24px;
+	margin: 117.6px 0 0 98px;
+}
+.div-box-left {
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	margin: 35.8px 0 131px 98px;
+}
+.p1-css {
+	color: #3D58A6;
+	font-size: 22px;
+	margin: 5.1px 275.2px 0 20.8px;
+}
+.img10 {
+	display: inline-block;
+	vertical-align: middle;
+	width: 100px;
+	height: 130.5px;
+	margin: 12.7px 61.2px 0 38.8px;
+}
+.p2-css {
+	display: inline-block;
+	vertical-align: middle;
+	width: 355px;
+	height: 143.49px;
+	margin: 51.5px 0 0 0;
+	color: #333333;
+	font-size: 20px;
+}
+.div-box-rigth {
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	margin: 0 0 0 28px;
+}
+.fb-icon {
+	margin: 62.3px 35.6px 0 109.5px;
+	padding-bottom: 38.7px;
+}
+.yu-icon {
+	margin-left: 35.6px;
+}
+/*სიახლეების სექცია*/
+.div-calendar {
+	display: inline-block;
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	margin: 39.4px 0 0 30px;
+}
+.div-calendar1 {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	font-size: 48px;
+	color: #FFFFFF;
+	
+}
+.span-1 {
+	vertical-align: middle;	
+}
+
+.p-color {
+	color: #3D58A6;
+	font-size: 22px;
+	margin: 2px 0 0 30px;
+}
+.div-1 {
+	/*display: inline-block;*/
+	margin: 17.5px 0 0px 30px;
+}
+.h3-css {
+	font-size: 22px;
+	color: #000000;
+	padding: 0 0 17.5px 0;
+}
+.div-2 {
+	display: inline-block;
+	vertical-align: top;
+	width: 270px;
+	height: 210px;
+	margin: 0 39px 0 0;
+}
+.div-3 {
+	display: inline-block;
+	vertical-align: top;
+	width: 929.02px;
+	height: 360px;
+	font-size: 16px;
+	color: #000000;
+}
+.p-2 {
+	margin-top: 25px;
+}
+.fb-icon3 {
+	margin: 0px 35.6px 0px 33.7px;
+	padding: 32.1px 0 26.5px 0;
+}
+.yu-icon4 {
+	margin-left: 35.6px;
+}
+/*კონტაქტის სექცია*/
+.section-css {
+	margin: 24.2px auto 31.7px;
+}
+.div-11 {
+	/*width: 1366px;*/
+	height: 570px;
+	margin: 0 auto;
+	background-color: #E6E6E6;
+}
+.div-12 {
+	display: inline-block;
+	vertical-align: top;
+	padding: 62.5px 63.5px 409.5px 97.5px;	
+}
+.h-13 {
+	font-size: 20px;
+	color: #3D58A6;
+	margin-bottom: 8px;
+}
+.li-14 {
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+.span-15 {
+	color: #000000;
+}	
+.span-css {
+	color: #808080;
+}
+
+.div-16 {
+	display: inline-block;
+	vertical-align: top;
+	padding: 39px 95.5px 66.5px 0;
+}
+	/*footer section*/
+.icon-fb {
+	margin: 31.4px 35.6px 17.3px 47.7px;
+}
+.icon-you {
+	padding: 31.4px 35.6px 17.3px 47.7px;
+}
