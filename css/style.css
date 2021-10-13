@@ -110,6 +110,7 @@
 	font-size: 22px;
 	color: #000000;
 	padding: 0 0 17.5px 0;
+	font-family: "BPG Glaho WEB", sans-serif;
 }
 .div-2 {
 	display: inline-block;
@@ -127,10 +128,13 @@
 	color: #000000;
 }
 .p-1 {
-	font-family: "ArchyEDT-Bold", sans-serif;
+	font-family: "BPG Glaho WEB", sans-serif;
+	text-indent: 50px;
 }
 .p-2 {
 	margin-top: 25px;
+	text-indent: 50px;
+	
 }
 .fb-icon3 {
 	margin: 0px 35.6px 0px 33.7px;
@@ -177,17 +181,8 @@
 }
 	/*footer section*/
 .icon-fb {
-	display: inline-block;
 	margin: 31.4px 35.6px 17.3px 47.7px;
 }
 .icon-you {
-	display: inline-block;
 	padding: 31.4px 35.6px 17.3px 47.7px;
 }
- .div-stik {
- 	height: 26px;
- 	width: 1px;
- 	background-color:#3D58A6 ;
- 	display: inline-block;
-
- }
