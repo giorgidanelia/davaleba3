@@ -126,6 +126,9 @@
 	font-size: 16px;
 	color: #000000;
 }
+.p-1 {
+	font-family: "ArchyEDT-Bold", sans-serif;
+}
 .p-2 {
 	margin-top: 25px;
 }
@@ -174,8 +177,17 @@
 }
 	/*footer section*/
 .icon-fb {
+	display: inline-block;
 	margin: 31.4px 35.6px 17.3px 47.7px;
 }
 .icon-you {
+	display: inline-block;
 	padding: 31.4px 35.6px 17.3px 47.7px;
 }
+ .div-stik {
+ 	height: 26px;
+ 	width: 1px;
+ 	background-color:#3D58A6 ;
+ 	display: inline-block;
+
+ }
